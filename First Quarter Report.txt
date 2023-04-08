@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This contain all the milestone achieved during the first Quarter.
 =======
 This contain all the milestone achieved during the first Quarter.
 >>>>>>> feature1
+=======
+
+This contain all the milestone achieved during the first Quarte
+This contain all the milestone achieved during the first Quarter.
+
+>>>>>>> 83d872f4d18e40cfb797d217d77905ecd931a8ab
